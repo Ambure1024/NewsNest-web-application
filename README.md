@@ -60,3 +60,5 @@ Responsive layout using Bootstrap
 
 Real-time news data rendered dynamically
 
+Outlook
+![image](https://github.com/user-attachments/assets/d60c970b-78ef-4fdf-abf3-6e3b25d03b8e)
